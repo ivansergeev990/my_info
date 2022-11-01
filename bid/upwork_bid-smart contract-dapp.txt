@@ -1,0 +1,376 @@
+Greetings!
+Thank you for this job opportunity.
+
+We are a team of professional developers/designers with a huge industry experience and we are ready to help you greatly with any work needed for this project.
+
+We have a really big Blockchain experience and would like to know more about your project.
+
+So, let me suggest you to schedule a date and meet online to discuss our candidacy and some more project details as well, what do you think?
+
+Looking forward to working with you in the nearest future.
+
+Best regards,
+
+###############################################################
+
+Hi. I read your job description carefully.
+I am a articulated and advanced senior developer who has 7+ years of hands-on experience in Blockchain and Fullstack development.
+I have rich experience on NFT market place, Betting/Gambling application, Cryptocurrency trading/Blockchain dApp Real Estate, Smart Contract, Ethereum/ERC20/ERC721 over the years.
+Looking forward to working with you.
+Regards
+
+###############################################################
+
+Hi, what knd of things would you like to show on your site? art picture, sports image and so on? Do you have the meta data for the NFT assets? If you don't, don't worry. We can create those based on your thoughts. Please discuss further.
+
+Thanks
+
+###############################################################
+
+Hello, I am really interested in this job. I have worked as a lead developer in several blockchain teams and built a lot of dApps so far.
+You can check some of them here.
+https://nft.thentwrk.com
+https://priviprotocol.io
+https://visor.finance
+https://epicx.gg
+
+Let's have an interview to discuss further details.
+Regards
+
+###############################################################
+
+Hi,
+I have read your project description carefully. I think I still need more details. I have a Ph.D. degree in Software Engineering, and I have done commercial and free open-source projects in the blockchain ecosystem and its security audits, but just recently, I have signed in to Upwork.
+
+I should state that I have in-depth experience in blockchain programming as well, particularly with Solidity for the smart contract ecosystem. I am also fully aware of blockchain-associated concepts, such as the pros and cons of various blockchain architectures, designing ERC20/721/1155 tokens, Binance Smart Chain, trusted execution environment (TEE), the MEV inspection, and performing security audit and exploitation of various blockchain codes.
+
+
+I often use the Openzeppelin library in terms of smart contract tokens, which results in more secure tokens.
+Moreover, I have been working as a full-stack web developer for several companies such as Berlin Digital Career Institute for few years. I have developed many commercial web applications via React and Node.js for different individuals startups. Thus, I can contribute to your project in both programmings.
+
+In terms of smart contract programming, I have created some blockchain projects based on Solidity and even Rust (you can find the details on my CV, website, and GitHub profile) using full-stack technologies and protocols as follows:
+Solidity
+Rust
+JavaScript
+React
+Truffle
+Openzeppelin
+Ganache
+Ethers.JS
+Brownie
+
+Apart from designing a high-quality blockchain program (token, coin, Dapp, Defi. etc.), safety and security would be the next critical point in my designs. Because smart contracts (blockchain apps generally) are immutable, that means developers CANNOT fix any bugs/vulnerabilities after releasing the smart contract on a target blockchain.
+
+Accordingly, introducing a reliable and successful smart contract project requires sufficient programming knowledge and extensive knowledge and experience of security audit/fuzzing and understanding various security threats in this emerging ecosystem. In this regard, I always perform the following security vulnerabilities testing during my blockchain developments:
+
+Integer Overflow and Underflow
+Reentrancy
+Timestamp Dependence
+DoS with (Unexpected) revert
+Block Gas Limit Bug
+Sandwich Attack
+Front-running
+
+you can also check my security service startup at the following link:
+https://securecontract.io
+
+Furthermore, I always leverage the CI/CD tools to enhance my projects' quality.
+Thus, in addition to conventional CI/CD tools (e.g., GitLab and Jenkins), I use Ganache and Docker (https://hub.docker.com/r/trufflesuite/ganache-cli/) for running tests on my smart contracts.
+
+
+In terms of code documentation, smart contract documentation is a critical part of a blockchain development lifecycle. It must be carried out
+in order to create a full-fledged and highly reputable piece of code. Note that in the absence of proper code documentation,
+if you hire a new developer who joins your team in the future, she won't be able to peak into the system and understand how it works efficiently.
+For my smart-contract projects, I often use solidity-docgen, which introduces one of the best forms for smart contract documentation, i.e., the Ethereum Natural Language Specification Format (NatSpec).
+
+For further information, please browse my cv (blockchain projects for more details) and check out the following links:
+
+
+http://ashoury.de (this is my personal webpage)
+https://github.com/mohammadreza-ashouri/
+https://securecontract.io (blockchain security consultation and penetration testing)
+http://persimmonweb.com (some of my old websites)
+https://dl.acm.org/doi/abs/10.1145/3341105.3374226?casa_token=g425J-iVtXEAAAAA:gNadBgqYJ49AzyMefMzh6ZIctoHFd74aEXflIgkZ0kC-Ilz7Zry0U6XW6JVbejhEt8CS99UTeqvm
+https://2019.splashcon.org/details/splash-2019-Posters/2/Etherolic-A-Concolic-Execution-System-for-Security-Analysis-of-Smart-Contracts
+https://sessionize.com/mohammadreza-ashouri
+https://2020.ecoop.org/profile/mohammadrezaashouri
+https://www.acsac.org/2019/files/web/acsac2019_thu_poster_ashouri.pdf
+https://hacktivity.com/index.php/speakers/dr-mohammadreza-ashouri/
+https://blog.deepsec.net/deepsec-2020-talk-taintspot-practical-taint-analysis-and-exploit-generation-for-java-dr-ing-mohammadreza-ashouri/
+https://www.youtube.com/channel/UCp2VCfFn13kXwJd1HFBCa7Q (this is my youtube channel I often talk about security testing in Java)
+https://www.udemy.com/course/how-to-make-a-cross-platform-ransomware-in-java-step-by-step/learn/lecture/25174574#overview (Here is my Udemy new course in the context of ransomware protection)
+https://stackoverflow.com/users/5341528/ashouri
+https://youtu.be/42ZNnB2Z1-A {my minimalistic Tezos NFT marketplace}
+
+If you have any questions please feel free to book a 15-minute meeting with me here: https://calendly.com/ashourics/meeting-mo-15
+All the best
+
+
+###############################################################
+
+Hi,
+
+I have 4 years of experience and excellent skills in developing smart contracts(ERC20, ERC721, ERC1155, ...) using solidity.
+So I am professional in solidity, web3.js, Opensea, IPFS, metamask, and so on.
+
+Especially, I have developed 5+ projects to develop ERC20 token projects with complicated custom tokenomic and logic such as
+1. Several tax percents
+2. Reflect reward to holders in token or cruptocurrency(ETHER, BNB)
+3. Buy or sell lock or cooldown.
+4. Lock wallets
+
+I am ready to discuss the details and very confident to complete this project successfully.
+I am looking forward to working with you.
+
+Thanks,
+
+###############################################################
+
+Hi.
+
+I'm a professional blockchain developer with perfect logic and a great passion for software development.
+I'm very experienced in blockchain forks, crypto farming/staking, tokens creation (ERC-20, ERC-721/1155 NFT), smart contracts, Defi, and Ethereum/Solana, and front/back end development.
+
+I hope to discuss the details in the chat.
+
+Regards!
+
+###############################################################
+
+Dear Client.
+I am very interested in your job post.
+I am so happy to apply this job with rich experience of Blockchain/Solana/Ethereum NFT development.
+I have lots of experience with NFT minting with solidity smart contracts.I have experience in
+- Implementing ERC20 using OpenZeppelin
+- Implementing ERC721 using OpenZeppelin
+- Implementing functions like airdrop, burning.
+- Implementing Upgradable solidity smart contract using OpenZeppelin
+- Implementing smart contract with Rust for the Solana platform
+- Generating arts and metadata with rarity using PSD and rarity spreadsheet
+- Uploading to IPFS using Pinata
+- Building website using web3 and React.js
+Can we arrange a quick call to discuss your project in more detail?
+Feel free to ask if you've any queries.
+Looking forward to your correspondence.
+Kind Regard.
+
+###############################################################
+
+Hi
+
+I've strong experience on solidity and ERC20 projects over the last 3 years.
+Creating smart contracts for ERC20 and web3 integration is not a problem at all.
+I can provide the optimal solution for the situation over the call.
+
+I can share more of my experience if I've got a chance to talk to you.
+Thanks.
+
+###############################################################
+
+Hello!
+
+I see you’re looking for a professional blockchain team/developer. We are Agency Wolfe, a Toronto-based expert agency in the Blockchain industry and We have worked with the giants in the industry such as Safemoon, Shopping.io, Octo.fi and ...
+
+We can deliver your project from 0-100: Requirement Gathering, Wireframe, UI/UX Design, Development, and Deployment.
+
+You can check our design portfolio on Dribbble:
+
+https://dribbble.com/agencywolfe
+
+Here is one of our generative art NFT collection projects on ERC721 called Top Dog Beach Club that you can check on the website below and the Opensea link:
+
+
+https://topdogbeachclub.com/
+https://opensea.io/topdogbeachclub
+
+
+Here is one of our generative art NFT collection projects on Solana called Spookeletons that you can check on the website below and the SolSea link:
+
+
+https://www.spookeletons.com/
+https://solsea.io/collection/617cda215b71e5fb863b5e5d
+
+
+Here is the swap platform that we have designed and developed for Safemoon:
+
+
+http://swap.safemoon.agencywolfe.com
+https://swap.safemoon.net
+
+We are also redesigning their Safemoon Wallet currently that you can check the design from the below link:
+
+
+https://linky.design/Safemoon-Wallet-Agency-Wolfe
+
+This is our Nyftis NFT Marketplace project, a Full-fledged NFT Marketplace with Auctions, Drops, Social Media, News, Community designated with a super elegant and modern design for the fastidious creators and collectors.
+
+https://linky.design/Nyftis-Agency-Wolfe
+
+This is our Defi Dashboard project on top of the Ethereum chain that contains everything you can imagine having in a Defi All-In-One Platform. Fiat On & Off, Swap, Trading, Borrow & Lending, NFT, etc.
+We had a very successful ICO and the token price has been raised from $10 to $120 in 3 months with over 2M 24-hour trading volume.
+
+Launched Website Link:
+
+https://octo.fi
+https://app.octo.fi
+
+Featured in Product Hunt with over 800 upvotes
+
+https://www.producthunt.com/posts/octofi-1
+
+You can check the design at this link:
+
+https://linky.design/OctoFi-Agency-Wolfe
+
+And the development in this link:
+
+http://defi.agencywolfe.com
+
+This is the Shopping.io project where users can buy any products they need using Cryptocurrency.
+We had a very successful ICO in this project too (SPI Token) and the token price has been raised from $1 to $270 in 2 months with over 2M 24-hour trading volume.
+
+https://shopping.io
+
+Here is the development link for V2 (The current beta launch at Shopping.io website):
+
+https://beta.shopping.io/
+http://shoppingdapp.agencywolfe.com/
+
+You can check the design for V1 at this link:
+
+https://linky.design/Shoppingio-Agency-Wolfe
+
+And the development for V1 at these links:
+
+http://shopping.agencywolfe.com
+http://shopping.agencywolfe.com/dao/governance
+
+ChainCade Play-to-earn Game (Similar to CryptoBlades):
+
+https://linky.design/ChainCade-Agency-Wolfe
+
+Club Rare is the World's First NFT based E-Commerce platform aiming to connect the real world economy to the digital economy. The goal of AGOV and Club Rare is to help people to find the appropriate value of marketable products in the real-world economy.
+
+You can check the design at this link:
+
+https://linky.design/ClubRare-Agency-Wolfe
+
+And the landing page design and development on the links below:
+
+https://linky.design/ClubRare-Landing-Agency-Wolfe
+http://agov.finance
+
+NFT History:
+Everybody can own a house, a car, a shoe, or a business. But how about being the only owner of something unique? We made it possible to own, sell and buy dates a.k.a. any moment of human history from discovering America through your birthday to creating Bitcoin.
+
+https://linky.design/NFT-History-Agency-Wolfe
+
+We use Scrum and Scrumban methodologies to deliver unique and very user-friendly designs and also completely responsive (Works very well in every screen size) and pixel perfect (Totally identical to the design) development and with having a great QA team, our projects are bug-free and high quality guaranteed. We will set up a Trello board for our clients to be able to track the progress and report any feedback.
+
+Send me a message if you’re interested. We can discuss your project further together.
+I’m super excited to work with you and your team. I think this may be the first of many projects that we can do together
+
+Kind Regards,
+
+
+###############################################################
+
+I have read the full requirement and can add tremendous value here.
+Senior expert in NFT, FNFT DAO, DAPPs, Smart contract Blockchain, Let's Chat!
+
+Part of the Solana founders Team and have developed for Cardano and Hedera
+
+Worked on many similar requirements
+
+NFT Marketplace:
+Dynamic NFT Creation module
+ICO portal (in parallel with dynamic NFT
+
+I'm Located in US, NY with locations worldwide, We are your One Stop Shop! Can work in any time zone. have fixed many Botched applications from the freelance community and can move with the flow of your requirement no need to go any place else.
+
+have done extensive work in this area, starting @ an Hourly rate or can work on a fixed rate and have extensively worked in the tech stack you are looking at.
+
+Skillset in Full Stack development. Skilled in Blockchain Development Solidity Web3 Terra Luna Immutable X Rust Layer3 Corda Flow Algorand Solana Bitcoin Haskell Solidity Opensea Solana polygon Binanace Cardano Testnet Dapp Website Development PstgreSQL Django Matic Solidity API Integration Blockchain Solidity Bitcoin Smart Contracts Blockchain Solidity Bitcoin Smart Contracts Blockchain Solidity Bitcoin Smart Contracts Blockchain Cryptocurrency Smart Contracts Blockchain Architecture Ethereum Blockchain Ethereum Java Spring Framework Hibernate MongoDB Ext JS Google Cloud Platform Amazon Web Services Blockchain Development Hyperledger Kotlin Smart Contracts Solidity DApps User Experience Blockchain Ethereum Cryptocurrency Smart Contracts Solidity DApps User Experience UX/UI Website Optimization Database Development eCommerce Website Web Design API Integration Database Architecture Python JavaScript Solidity Hyperledger Truffle web3.js
+
+Senior Full stack Experts with over 17 pls yrs in the industry
+
+Offering Web/Mobile from Sketch/Design/ Development /Testing / Support/ Prototype/MVP/ Code review project/ IT management and consulting/Audits/ Cyber Security/ manual and automatic testing /Farming /Forking/low code no code /Market Research for all Industries, while incorporating today's emerging technologies.
+
+AI/ML/DL/BLOCKCHAIN/RPA/OCR/NLP/Computer Vision/Edge Computing/AR/VR/Chatbot/FinTech/IOT
+
+Would be happy to get in touch with you as we see that we can add tremendous value to your team. Considering we also understand emerging tech set a call to discuss further, and showcase some of our capabilities to you.
+
+Please have a look at some of our live work (and more examples attached):
+
+-https://sayblowe.io/
+-https://monsterbuds.io/home
+- https://theindy500nft.com/#item-section
+- https://yieldbank.finance
+
+- Big e-Commerce | https://www.saint-gobain.com/en
+
+- Blockchain - Cloud Data Storage | https://www.iagon.com/
+- Blockchain - Energy Industry | https://swytch.io/
+-https://fishcoin.co/ -Blockchain Solution Supply Chain industry
+-Morpheus Network – Morpheus.network- Logistic Industry
+-Ecare – ecarecoin.co
+
+https://www.forbes.com/sites/forbes-global-properties/2021/09/22/mohamed-hadid-shaves-50-million-off-of-price-for-los-angeles-land-and-nft/?sh=59bbe1de6764
+
+https://github.com/winjit-technologies
+
+Please have a look @ our site @ www.winjit.com
+
+Thanks, in Advance!
+
+Warmest Regards,
+
+###############################################################
+
+====================!!! I CAN DO IT !!!====================
+Dear client.
+My name is Robert - a senior blockchain developer with 5+ years of experience.
+I have rich experience with smart contract development in Solidity.
+Most of my past work are NDAs, so I'll list only part of them below to show my experience.
+https://www.robotos.art (ethereum)(frontend:react, smart contract: solidity)
+https://badbunniesnft.com/ (solana)(frontend:next, smart contract: rust)
+https://wildapegang.com/ (ethereum)(frontend:react, smart contract: solidity)
+https://highrollersnft.com (solana: 3D)(frontend:next, smart contract: rust)
+https://www.dwarfsf.com/ (Polygon mainnet)(frontend:vue.js, smart contract: solidity)
+https://agelessteez-pi.vercel.app (ethereum)(frontend:next, smart contract: solidity)
+http://www.houseit.com/ (react and node.js)
+
+Please have a look at these site and feel free to contact me.
+I think I am the right candidate who can deliver the best communication and result for your project.
+Hope to hear back from you.
+
+Sincerely
+
+###############################################################
+
+Hi
+I'm a senior blockchain developer who has rich experience in building DApps and DeFi projects.
+Especially I have experience in building NFT marketplace using Solidity, Web3, React.
+
+Here are some of my previous works
+https://cryptodragons.com/
+https://www.billionaireclubnft.com/
+https://earnx.yearnclassic.finance
+https://crosswise.finance
+
+I'm very interested in your project and want to discuss more details on chat.
+Look forward to hearing from you soon.
+
+Best Regards.
+
+###############################################################
+
+###############################################################
+
+###############################################################
+
+###############################################################
+
+###############################################################
+
+###############################################################

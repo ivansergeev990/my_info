@@ -1,0 +1,39 @@
+Please solve the Git Challenge here: https://github .com/superstruct-tech/challenge-git and provide the link to your GitHub repo w/ your solution. ** DO NOT fork this repo **--------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
+I have checked the challenge repo and found that currently there are no open PRs on that repo.
+
+https://github.com/sergey-galenko/superstruct-tech/commits/master
+
+
+Describe your approach to testing and improving QA-------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
+
+Honestly, I haven't written tests in the past as the clients I worked with didn't want testing implementation. However, I do these things to make sure the code is clean and readable: descriptive names, single-purpose functions, descriptive messages during git commits, empty lines to improve readability, clean files & directory architecture.
+
+I have worked on tests in my previous projects as well.
+
+Writing automated tests so that the manual work can be reduced and testing will get faster
+
+
+
+
+
+Please list any certifications related to this project-------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
+
+I have certifications in these Udemy courses:
+1: JavaScript - The Complete Guide 2022 (Beginner + Advanced) by Maximilian Schwarzmüller
+2: React - The Complete Guide (incl Hooks, React Router, Redux) by Maximilian Schwarzmüller
+
+I think my upwork profile can define it better than certifications?
+
+
+Describe your recent experience with similar projects---------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
+
+https://www.lovlan.com/
+This is the recent project I worked on - It uses some of the technologies listed in your tech stack e.g. NextJS, TypeScript & GraphQL. This is actually a multi-sided marketplace to connect language learners and trainers and I felt pretty comfortable working with this codebase. I worked on its both parts i.e. frontend & backend.
+
+Its been almost 5/6 years working with the tech stack required for the job, but i have intermediate expeience on prisma but thats just because i had not got much time to look into that.
+I have helped many startups and individuals to get the project deployed, the longest project i worked for is breakernation.com which is music platform with web/mobile app
+
