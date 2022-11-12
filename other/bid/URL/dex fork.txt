@@ -1,0 +1,55 @@
+Here is our GitHub link: https://github.com/exiotech
+
+Also, here are listed some of our past DEX projects:
+- https://www.tacoswap.io/swap
+- https://app.combine.finance/swap
+https://tacoswap.io
+https://dexalot.com/
+
+Other blockchain related projects:
+1. https://pokedx.app/
+2. https://unidex.exchange
+
+DEXs & AMMs:
+app.sweetswap.finance
+lile.farm
+exchange.kingdoge.io
+
+My GitHub link
+https://github.com/Waleed-Shafiq
+My WEBSITE LINK
+www.quecko.com
+
+Based on your project description, I gave the following questions for you:-
+1. Ok we can build a dex like sushiswap.
+2. Do you want an exact clone or do you want some changes?
+3. Link of our recent similar project.
+https://www.cryptless.eu
+
+Blockchain Developer | NFT | Metabeauts.io
+NFT Collection, NFT Staking, DAO
+
+Blockchain Developer | F9 Launchpad
+IDO Staking smart contracts development, React.js UI implementation
+
+Blockchain Developer | Medabots.io
+
+
+Blockchain Developer | weave.financial
+Solidity Development on retail investing platform within Defi space. Developing Yield Farming, Staking & LP’s mechanisms
+
+Blockchain Developer | gooddollar.org
+Forking Sushiswap and develop custom UI in react.js and enhance their UBI protocol based on AAVE and DAI
+
+Blockchain developer | therat.finance
+Token presale launch and general blockchain consulting
+
+
+I am attaching some of the links of the Dexes I have done in the past with custom design and user interfaces:
+Nftgamingstars.com
+https://soldaitswap.netlify.app
+https://shoalintoken.netlify.app/
+
+ Gate.io, MEXC, xt and Bkex.
+
+https://kryptopris.no/  token price
